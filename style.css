@@ -5,14 +5,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #dd7474;
+    background-color: #67d936;
 }
 
 .container {
-    border: 5px solid #000000;
+    border: 3px solid #000000;
     border-radius: 4px;
     padding: 20px;
-    background-color: rgb(236, 187, 175);
+    background-color: rgb(238, 228, 118);
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
@@ -38,7 +38,7 @@ body {
 input[type="text"] {
     width: 150px;
     padding: 4px;
-    border: 1px solid #ccc;
+    border: 1px solid #f08282;
     border-radius: 3px;
 }
 
@@ -51,12 +51,12 @@ input[type="text"] {
 
 button {
     padding: 6px 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     border-radius: 3px;
-    background-color: #f8f8f8;
+    background-color: #f5ff62;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #e8e8e8;
+    background-color: #f0f06a;
 }
