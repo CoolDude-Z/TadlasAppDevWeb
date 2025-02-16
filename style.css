@@ -5,11 +5,11 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #21c444;
 }
 
 .container {
-    border: 1px solid #ccc;
+    border: 1px solid #daa5a5;
     border-radius: 4px;
     padding: 20px;
     background-color: white;
