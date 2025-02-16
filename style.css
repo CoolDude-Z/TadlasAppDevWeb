@@ -5,14 +5,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #e7e7e7;
+    background-color: #dd7474;
 }
 
 .container {
-    border: 1px solid #000000;
+    border: 5px solid #000000;
     border-radius: 4px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(236, 187, 175);
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
